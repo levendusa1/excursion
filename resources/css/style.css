@@ -1,0 +1,40 @@
+
+body {
+    display: block;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+h1.head {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.footer{
+    display: block;
+    text-align: right;
+    color: gray;
+}
+
+a {
+font-size: 16px;
+color: aquamarine;
+}
+
+.legend {
+    font-size: 21px;
+    color: gray;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+}
